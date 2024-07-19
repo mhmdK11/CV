@@ -166,6 +166,14 @@ span{
     background-color: #a4d409;
 }
 
+.contact h2{
+    color: #102C57;
+}
+
+::placeholder{
+    text-align: end;
+}
+
 
 .footer{
     background-color: #102C57;
